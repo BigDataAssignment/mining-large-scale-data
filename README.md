@@ -43,6 +43,9 @@ Create *python 3.10* env:
 Install dependencies from **requirements.txt**:
 `yes | pip install -r requirements.txt`
 
+[Install](https://spacy.io/usage) SpacY English Models:
+`python -m spacy download en_core_web_sm`
+
 ## Commiting
 
 Use pipreqs to help commit dependencies:
