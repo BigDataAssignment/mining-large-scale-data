@@ -27,6 +27,8 @@ technique/s (20 marks);
 - Adam
   - Discovery & proposal of benchmark paper.
   - Bootstrapping, refactoring and re-engineering of paper's models and code. See [github](https://github.com/adamd1985/socialmedia_ai_analysis_mentalhealth_predictiveintervention).
+  - Preprocessing and large text data sanitization pipelines.
+  - Senitiment and lexicon analysis and [research](./sentiment_resaerch.ipynb).
 - Christian
   - Medical papers research and selection.
   - Bootstrapping of benchmark paper data.
