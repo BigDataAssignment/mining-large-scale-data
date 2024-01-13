@@ -1,0 +1,144 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.2,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a89eae928",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "ANXIETY DISORDERS",
+      "BIPOLAR DISORDERS",
+      "DEPRESSIVE DISORDERS",
+      "DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS",
+      "DISSOCIATIVE DISORDERS",
+      "EATING DISORDERS",
+      "NEURO-COGNITIVE DISORDERS",
+      "NEURO-DEVELOPMENTAL DISORDERS",
+      "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS",
+      "PERSONALITY DISORDERS",
+      "PSYCHEDELIC DRUGS",
+      "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS",
+      "SEXUAL DYSFUNCTIONS",
+      "SLEEP-WAKE DISORDERS",
+      "SOMATIC SYMPTOM RELATED DISORDERS",
+      "SUBSTANCE-RELATED DISORDERS",
+      "SYMPTOMS",
+      "TRAUMA AND STRESS RELATED DISORDERS"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.8923444976,
+    "ents_p":0.8955582233,
+    "ents_r":0.8891537545,
+    "ents_per_type":{
+      "PSYCHEDELIC DRUGS":{
+        "p":0.9870967742,
+        "r":0.974522293,
+        "f":0.9807692308
+      },
+      "DEPRESSIVE DISORDERS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS":{
+        "p":0.8125,
+        "r":0.9285714286,
+        "f":0.8666666667
+      },
+      "SYMPTOMS":{
+        "p":0.664,
+        "r":0.7063829787,
+        "f":0.6845360825
+      },
+      "BIPOLAR DISORDERS":{
+        "p":0.8571428571,
+        "r":0.8571428571,
+        "f":0.8571428571
+      },
+      "ANXIETY DISORDERS":{
+        "p":0.536,
+        "r":0.475177305,
+        "f":0.5037593985
+      },
+      "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "SUBSTANCE-RELATED DISORDERS":{
+        "p":0.8636363636,
+        "r":0.8837209302,
+        "f":0.8735632184
+      },
+      "SOMATIC SYMPTOM RELATED DISORDERS":{
+        "p":0.8571428571,
+        "r":1.0,
+        "f":0.9230769231
+      },
+      "SLEEP-WAKE DISORDERS":{
+        "p":0.75,
+        "r":1.0,
+        "f":0.8571428571
+      },
+      "TRAUMA AND STRESS RELATED DISORDERS":{
+        "p":0.825,
+        "r":0.9166666667,
+        "f":0.8684210526
+      },
+      "NEURO-DEVELOPMENTAL DISORDERS":{
+        "p":0.9375,
+        "r":0.75,
+        "f":0.8333333333
+      },
+      "NEURO-COGNITIVE DISORDERS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "EATING DISORDERS":{
+        "p":1.0,
+        "r":0.5,
+        "f":0.6666666667
+      },
+      "NON-SUBSTANCE RELATED DISORDERS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "DISSOCIATIVE DISORDERS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      }
+    },
+    "tok2vec_loss":322.0477280571,
+    "ner_loss":122.5773639114
+  }
+}
