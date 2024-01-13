@@ -2,9 +2,8 @@
 svo.csv
 SemanticsRel.csv
 mental_disorders_reddit.csv
-<<<<<<< HEAD
 SemanticsRelFiltered.csv
-=======
+
 
 
 # Byte-compiled / optimized / DLL files
@@ -23,8 +22,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
 parts/
 sdist/
 var/
@@ -167,4 +164,3 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
->>>>>>> 8748d7f204da2f26405912ccaaa242f99a469091
