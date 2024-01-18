@@ -69,6 +69,14 @@ All CVSs should go to the folder ['./raw_data'](./raw_data)
 
 A default `.env` was provided.
 Use your own and add it to `.gitignore`.
+For the reddit scraper have these in your env:
+```yml
+CLIENT_ID=YOUR_CLIENT_ID
+CLIENT_SECRET=YOUR_SECRET
+USER_AGENT=uom_research v1.0 by /u/YOUR_USER_NAME
+SUBREDDITS=MentalHealth,depression,anxiety
+```
+The authentication  key and secrets you need to create from this wiki: https://www.reddit.com/wiki/api/
 
 API connections, environment variables, and other secrets need to go in your .env.
 **Do not commit** your .env!
