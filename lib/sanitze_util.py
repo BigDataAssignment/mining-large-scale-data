@@ -1,7 +1,7 @@
 """
 Text Sanitization Utilities
 
-This module provides utility functions for text sanitization in the context of natural language processing. 
+This module provides utility functions for text sanitization in the context of natural language processing.
 Example:
     >>> from sanitize_utils import emoji2description, strip_html
     >>> text = "<p>Hello World! 😊</p>"
@@ -31,10 +31,10 @@ DEFAULT_CHUNKS = 128
 def emoji2description(text):
     """
     Converts emojis in the text to their textual description.
-    
+
     Args:
     text (str): The input text containing emojis.
-    
+
     Returns:
     str: Text with emojis replaced by their description.
     """
@@ -49,10 +49,10 @@ def emoji2description(text):
 def strip_html(text):
     """
     Strips HTML tags from the input text and decodes encoded symbols.
-    
+
     Args:
     text (str): The input text with HTML tags.
-    
+
     Returns:
     str: Text with HTML tags removed.
     """
@@ -68,13 +68,13 @@ def sanitize_text(doc):
     expands contractions, strips HTML, and retains only specified patterns of words.
     This function is designed to be used as a part of a Spacy NLP pipeline.
     call: nlp.add_pipe("sanitize_text", first=True)
-    
+
     Args:
     doc (Doc): A Spacy Doc object representing the input text.
-    
+
     Returns:
     Doc: A new Spacy Doc object containing the sanitized text.
-    
+
     Example:
         >>> import spacy
         >>> nlp.add_pipe("sanitize_text")
@@ -99,12 +99,12 @@ def clean_text_batch(texts, batch_size=DEFAULT_CHUNKS, multi_proc=False):
     Cleans a batch of texts using Spacy's NLP pipeline.
     Attempts to run pipeline as multi-process on all CPUs, though has documented issues in spacy's github. See: https://github.com/explosion/spaCy/issues/5239
     see: https://spacy.io/usage/processing-pipelines#disabling for disambling unwanted pipeline components.
-    
+
     Args:
     texts (iterable): An iterable of text strings to be cleaned.
     chunksize (int): Buffered text size for pipeline.
     multi_proc (boolean): Defaults to FALSE. TRUE if we use sPacy's native pipe multiprocessing for each CPU.
-    
+
     Returns:
     list: A list of cleaned text strings.
     """
@@ -133,11 +133,11 @@ def clean_text_batch_parallel(texts, chunksize=DEFAULT_CHUNKS*10):
     Multiproc version of: clean_text_batch() using pythons standard joblib.
     Chunks the text, creates tasks as much as CPUs, collects the output of each task and flattens it into 1 array.
     The tradeoff here is that we initialize the pipeline for each task.
-    
+
     Args:
     texts (iterable): An iterable of text strings to be cleaned.
     chunksize (int): A much large chunksize than what spacy will take in the pipeline.
-    
+
     Returns:
     list: A list of cleaned text strings.
 
