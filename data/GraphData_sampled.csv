@@ -99,3 +99,403 @@ depression,tell,dobj,medication,"{'DEPRESSIVE DISORDERS': ['depression'], 'PSYCH
 BPD,searching,dobj,path,{'SYMPTOMS': ['anger']}
 BPD,decided,nsubj,mum,"{'SUBSTANCE-RELATED DISORDERS': ['alcoholism'], 'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['suicidal thoughts']}"
 depression,ended,dobj,sentence,"{'SYMPTOMS': ['anxiety', 'panic attack'], 'ANXIETY DISORDERS': ['anxiety', 'panic'], 'DEPRESSIVE DISORDERS': ['depression'], 'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['obsessive compulsive disorder']}"
+BPD,feel,nsubj,way,{}
+depression,dawned,dobj,young,{'DEPRESSIVE DISORDERS': ['depression']}
+depression,feel,nsubj,things,{}
+BPD,ruined,nsubj,think,{}
+Anxiety,end,nsubj,pressure,"{'SYMPTOMS': ['anxiety'], 'PSYCHEDELIC DRUGS': ['met']}"
+Anxiety,struggling,dobj,topic,"{'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['ocd'], 'ANXIETY DISORDERS': ['anxiety']}"
+mentalillness,hunt,nsubj,emotions,"{'SYMPTOMS': ['panic attacks', '-affective', 'delusions', 'hallucinations']}"
+Anxiety,find,nsubj,hope,{'SYMPTOMS': ['panic']}
+BPD,asking,dobj,stop,{'PSYCHEDELIC DRUGS': ['met']}
+BPD,follows,nsubj,ex,{}
+mentalillness,consumed,dobj,life,"{'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['obsessive thoughts determination managed reduce thoughts', 'ocd']}"
+BPD,answers,nsubj,guys,{}
+BPD,know,nsubj,happy,{'SYMPTOMS': ['brief mention']}
+depression,seek,nsubj,guardian,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anxiety']}"
+Anxiety,understands,nsubj,home,{}
+Anxiety,feel,dobj,paranoid,{'SYMPTOMS': ['anxiety']}
+Anxiety,let,nsubj,x200b,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'PSYCHEDELIC DRUGS': ['met'], 'DEPRESSIVE DISORDERS': ['depression']}"
+depression,die,nsubj,sounds,{}
+BPD,want,nsubj,thoughts,{'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['obsessive torture unfortunately love']}
+BPD,consider,nsubj,communicate,{'BIPOLAR DISORDERS': ['bipolar']}
+Anxiety,took,nsubj,stool,"{'SYMPTOMS': ['panic attacks', 'anxiety', 'fatigue']}"
+BPD,feeling,dobj,attention,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+Anxiety,feel,nsubj,tips,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,committing,dobj,sin,{}
+Anxiety,brain,nsubj,people,{'SYMPTOMS': ['anxiety']}
+BPD,happens,nsubj,okay,{}
+Anxiety,feel,nsubj,party,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,deal,nsubj,situations,"{'SYMPTOMS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression']}"
+bipolar,saw,dobj,join,{}
+BPD,felt,nsubj,triggers,"{'SYMPTOMS': ['addiction', 'suicidal past'], 'PSYCHEDELIC DRUGS': ['met']}"
+Anxiety,choose,dobj,tw,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['panic attacks', 'anxiety']}"
+BPD,end,nsubj,end,{}
+BPD,dr,nsubj,eggshells,{'DEPRESSIVE DISORDERS': ['depression']}
+mentalillness,wake,nsubj,attack,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['paranoia']}"
+Anxiety,makes,nsubj,diseases,{'SYMPTOMS': ['anxiety']}
+BPD,happened,nsubj,fuck,{}
+BPD,ignoring,dobj,text,{}
+Anxiety,asked,nsubj,doctor,"{'ANXIETY DISORDERS': ['social anxiety'], 'SYMPTOMS': ['fatigue', 'anxiety', 'hopelessness']}"
+Anxiety,draining,nsubj,anxiety,{'ANXIETY DISORDERS': ['anxiety']}
+Anxiety,challenges,dobj,words,{'SYMPTOMS': ['suicidal thoughts']}
+Anxiety,stopped,nsubj,days,{'ANXIETY DISORDERS': ['anxiety']}
+BPD,need,dobj,city,{}
+Anxiety,showed,nsubj,emotion,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+bipolar,share,nsubj,activities,{}
+mentalillness,want,nsubj,therapists,{'SYMPTOMS': ['suicidal ideation']}
+Anxiety,said,nsubj,21st,"{'SYMPTOMS': ['suicidal ideation', 'anxiety']}"
+BPD,ask,dobj,talk,"{'ANXIETY DISORDERS': ['anxiety', 'panic']}"
+BPD,went,nsubj,food,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma', 'adhd'], 'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anger', 'pain relief']}"
+Anxiety,hate,nsubj,keeps,"{'ANXIETY DISORDERS': ['social anxiety', 'anxiety'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}"
+depression,ending,nsubj,world,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['suicidal ideation']}"
+depression,wake,dobj,deal,{}
+BPD,witnessed,nsubj,shit,{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}
+Anxiety,lose,dobj,life,{'ANXIETY DISORDERS': ['anxiety']}
+Anxiety,chance,dobj,thoughts,"{'ANXIETY DISORDERS': ['anxiety'], 'SLEEP-WAKE DISORDERS': ['insomnia'], 'SYMPTOMS': ['anxiety']}"
+BPD,know,nsubj,yeah,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma', 'ptsd'], 'BIPOLAR DISORDERS': ['bipolar'], 'SYMPTOMS': ['anger', 'hopelessness', 'anxiety']}"
+bipolar,going,dobj,class,"{'SYMPTOMS': ['panic attacks'], 'BIPOLAR DISORDERS': ['bipolar']}"
+mentalillness,hospitalized,nsubj,need,"{'SYMPTOMS': ['addiction'], 'DEPRESSIVE DISORDERS': ['depression', 'major depression']}"
+depression,considerate,nsubj,parents,{'SYMPTOMS': ['anxiety']}
+BPD,looking,dobj,behavior,{}
+mentalillness,living,dobj,walls,{}
+depression,moving,dobj,purpose,{}
+BPD,diagnosed,dobj,ibs,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anxiety']}"
+Anxiety,gets,nsubj,anxiety,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+Anxiety,feel,nsubj,anxiety,{'SYMPTOMS': ['anxiety']}
+Anxiety,getting,nsubj,anxiety,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'SYMPTOMS': ['panic attacks', 'anxiety']}"
+bipolar,google,nsubj,names,"{'BIPOLAR DISORDERS': ['bipolar', 'bipolar disorder'], 'DEPRESSIVE DISORDERS': ['depression']}"
+Anxiety,feel,dobj,therapy,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'SYMPTOMS': ['anxiety']}"
+BPD,said,nsubj,connection,{'DEPRESSIVE DISORDERS': ['hand']}
+Anxiety,fell,nsubj,keto,"{'SYMPTOMS': ['panic attacks', 'anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,took,nsubj,second,{}
+Anxiety,resume,dobj,points,"{'SYMPTOMS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,drinking,nsubj,sludge,{'SYMPTOMS': ['addiction']}
+BPD,pitying,nsubj,lack,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['anxiety attacks', 'paranoia', 'delusions'], 'DEPRESSIVE DISORDERS': ['depression'], 'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['ocd']}"
+BPD,start,nsubj,relationship,{}
+Anxiety,feel,dobj,reason,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+Anxiety,stressing,dobj,pattern,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,seek,nsubj,push,"{'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety']}"
+Anxiety,love,nsubj,man,{}
+Anxiety,foresee,nsubj,struggle,{'DEPRESSIVE DISORDERS': ['depression']}
+bipolar,want,nsubj,life,{}
+BPD,kicks,dobj,treats,"{'SYMPTOMS': ['anger'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,try,nsubj,want,{}
+depression,got,dobj,thoughts,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['suicidal thoughts']}"
+bipolar,comes,nsubj,rage,"{'BIPOLAR DISORDERS': ['bipolar'], 'PSYCHEDELIC DRUGS': ['ecstasy', 'lsd'], 'SYMPTOMS': ['anger', 'mania', 'hypomania']}"
+Anxiety,post,nsubj,guys,{'SYMPTOMS': ['anxiety']}
+BPD,ask,nsubj,checks,{'SYMPTOMS': ['anxiety']}
+Anxiety,works,nsubj,day,"{'SUBSTANCE-RELATED DISORDERS': ['alcoholism'], 'SYMPTOMS': ['anxiety', 'panic attack'], 'ANXIETY DISORDERS': ['anxiety'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}"
+depression,meet,nsubj,number,{}
+BPD,wants,nsubj,heart,{}
+BPD,found,nsubj,kid,{}
+BPD,helped,dobj,ways,{'SYMPTOMS': ['anger']}
+BPD,shared,nsubj,group,"{'SYMPTOMS': ['addiction', 'anger'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}"
+Anxiety,watch,dobj,experience,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,said,nsubj,website,{'ANXIETY DISORDERS': ['anxiety']}
+BPD,came,nsubj,statement,{}
+bipolar,taking,dobj,geodon,{}
+bipolar,gives,dobj,fullfillment,{'SYMPTOMS': ['anxiety']}
+BPD,leaves,dobj,husband,{'SYMPTOMS': ['paranoia']}
+Anxiety,know,nsubj,hurts,{'ANXIETY DISORDERS': ['anxiety']}
+depression,felt,nsubj,money,"{'SYMPTOMS': ['fitness'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,tried,nsubj,pay,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,committed,nsubj,xtc,"{'DEPRESSIVE DISORDERS': ['dysthymia', 'depression']}"
+depression,kill,dobj,realisation,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['addiction']}"
+Anxiety,run,nsubj,mommy,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'SYMPTOMS': ['anxiety']}"
+Anxiety,work,nsubj,anxiety,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,makes,dobj,things,{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}
+Anxiety,love,dobj,thoughts,"{'SYMPTOMS': ['anxiety'], 'PSYCHEDELIC DRUGS': ['thoughts']}"
+BPD,feel,nsubj,sucks,{}
+depression,going,dobj,partner,{}
+depression,living,nsubj,shelter,{}
+Anxiety,experience,dobj,tinnitus,{'SYMPTOMS': ['anxiety']}
+BPD,told,nsubj,man,{}
+depression,helped,dobj,misunderstood,"{'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety', 'panic'], 'TRAUMA AND STRESS RELATED DISORDERS': ['antisocial']}"
+depression,picking,dobj,feel,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['panic attacks', 'suicidal moment'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,ask,dobj,answer,"{'DEPRESSIVE DISORDERS': ['dysthymia'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}"
+mentalillness,threw,nsubj,life,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['panic attacks']}"
+depression,burst,nsubj,mistakes,{'SYMPTOMS': ['anxiety']}
+depression,seek,dobj,point,{}
+BPD,think,nsubj,decisions,{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}
+depression,insulting,dobj,help,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,drinking,dobj,reason,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['panic attacks']}"
+Anxiety,love,dobj,love,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['paranoia']}"
+Anxiety,trying,dobj,friends,{'SYMPTOMS': ['anxiety']}
+BPD,told,nsubj,dad,{}
+Anxiety,started,dobj,time,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'SYMPTOMS': ['nietzsche', 'anxiety', 'panic']}"
+BPD,imagine,dobj,wish,{}
+mentalillness,disabled,nsubj,instagram,"{'SYMPTOMS': ['anxiety', 'suicidal moment'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,feels,nsubj,tells,"{'PSYCHEDELIC DRUGS': ['met'], 'DEPRESSIVE DISORDERS': ['hand']}"
+depression,regrets,nsubj,mix,"{'DEPRESSIVE DISORDERS': ['major depression'], 'SYMPTOMS': ['panic attacks']}"
+mentalillness,admit,dobj,way,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['paranoia']}"
+BPD,obsessed,dobj,fill,"{'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['obsessive start suddenly', 'obsessive interests quickly lose interest']}"
+depression,wanted,nsubj,hatred,{'SYMPTOMS': ['suicidal thoughts']}
+bipolar,feel,nsubj,words,{}
+BPD,came,nsubj,moment,{'SUBSTANCE-RELATED DISORDERS': ['obsessive']}
+mentalillness,living,dobj,walls,{}
+depression,moved,nsubj,going,{}
+Anxiety,tend,nsubj,threat,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anger', 'anxiety', 'panic'], 'DEPRESSIVE DISORDERS': ['hand', 'depression']}"
+depression,knew,nsubj,sibling,"{'NEURO-DEVELOPMENTAL DISORDERS': ['hand'], 'ANXIETY DISORDERS': ['social anxiety able'], 'TRAUMA AND STRESS RELATED DISORDERS': ['adhd'], 'DEPRESSIVE DISORDERS': ['hand']}"
+depression,lies,nsubj,danger,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,bpd,nsubj,people,{}
+schizophrenia,said,nsubj,voice,"{'SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS': ['schizophrenia'], 'SYMPTOMS': ['psychosis', 'hallucinations']}"
+BPD,fucking,dobj,recommendations,{}
+BPD,trusts,nsubj,conversation,{}
+Anxiety,regaining,dobj,advice,"{'SYMPTOMS': ['anxiety', 'paranoia'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,going,nsubj,worry,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,hates,nsubj,occasion,{}
+BPD,believe,nsubj,felt,{}
+Anxiety,gave,dobj,know,{}
+bipolar,feels,nsubj,profound,{'SYMPTOMS': ['hallucinations']}
+depression,talk,nsubj,people,{}
+Anxiety,need,nsubj,know,"{'SYMPTOMS': ['generalized social anxiety', 'anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,hating,dobj,feeling,"{'SYMPTOMS': ['anxiety', 'numbness']}"
+BPD,liked,dobj,encounters,"{'BIPOLAR DISORDERS': ['binge', 'bipolar'], 'ANXIETY DISORDERS': ['social anxiety', 'anxiety'], 'SYMPTOMS': ['panic attacks', 'mania', 'psychosis']}"
+BPD,find,nsubj,profiles,{}
+depression,makes,nsubj,emotions,"{'DEPRESSIVE DISORDERS': ['depression'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'PSYCHEDELIC DRUGS': ['met']}"
+Anxiety,cut,dobj,lot,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'SYMPTOMS': ['anxiety']}"
+bipolar,ruin,nsubj,punching,"{'SYMPTOMS': ['anger'], 'BIPOLAR DISORDERS': ['bipolar'], 'NEURO-COGNITIVE DISORDERS': ['hand'], 'DEPRESSIVE DISORDERS': ['hand'], 'PSYCHEDELIC DRUGS': ['met']}"
+BPD,happened,nsubj,nothings,{'PSYCHEDELIC DRUGS': ['met']}
+Anxiety,taking,dobj,doubts,{'ANXIETY DISORDERS': ['anxiety']}
+mentalillness,likes,nsubj,things,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,screening,dobj,psych,{}
+BPD,let,nsubj,person,{}
+schizophrenia,feel,nsubj,hobby,{}
+depression,crying,nsubj,bed,{}
+Anxiety,feel,nsubj,cry,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,got,dobj,sense,{}
+BPD,grinding,dobj,thoughts,"{'SLEEP-WAKE DISORDERS': ['insomnia'], 'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['suicidal thoughts']}"
+BPD,giving,dobj,calm,{}
+BPD,unpredictable,dobj,opinion,"{'SYMPTOMS': ['anger', 'sorry thoughts'], 'ANXIETY DISORDERS': ['anxiety']}"
+Anxiety,tell,nsubj,working,{'SYMPTOMS': ['anxiety']}
+Anxiety,fight,dobj,mode,{}
+BPD,feel,nsubj,lies,{}
+BPD,leaving,dobj,work,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,knows,nsubj,life,{'SYMPTOMS': ['anger']}
+depression,feels,nsubj,try,{'DEPRESSIVE DISORDERS': ['depression']}
+Anxiety,happened,nsubj,events,{'SYMPTOMS': ['anxiety']}
+BPD,coping,dobj,method,{}
+BPD,felt,nsubj,situation,"{'ANXIETY DISORDERS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression'], 'PSYCHEDELIC DRUGS': ['met']}"
+mentalillness,knew,nsubj,way,{'PSYCHEDELIC DRUGS': ['met']}
+BPD,getting,dobj,insecure,{}
+depression,wonder,nsubj,heart,{'DEPRESSIVE DISORDERS': ['depression']}
+Anxiety,comes,dobj,body,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,takes,nsubj,fault,{}
+depression,fucked,nsubj,weeks,{}
+BPD,going,nsubj,somebody,{}
+mentalillness,understand,nsubj,care,{}
+BPD,told,dobj,diagnoses,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anxiety'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}"
+Anxiety,want,nsubj,terms,{'SYMPTOMS': ['anxiety']}
+depression,hit,nsubj,work,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['social anxiety', 'anxiety']}"
+Anxiety,started,nsubj,mind,{'SYMPTOMS': ['anxiety']}
+BPD,sent,dobj,texts,{}
+BPD,appreciated,nsubj,think,"{'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,gain,dobj,boyfriend,{'BIPOLAR DISORDERS': ['bipolar']}
+BPD,attract,dobj,attachment,{}
+BPD,suffer,nsubj,novels,{}
+Anxiety,having,nsubj,dread,{}
+depression,sleep,dobj,weekends,{}
+depression,feel,nsubj,finger,{}
+Anxiety,requires,nsubj,culture,{}
+depression,started,nsubj,depression,{'DEPRESSIVE DISORDERS': ['depression']}
+bipolar,feels,nsubj,extravagant,{'BIPOLAR DISORDERS': ['bipolar']}
+BPD,enjoy,dobj,life,{}
+mentalillness,disappeared,nsubj,pain,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['addiction']}"
+depression,depressed,dobj,time,"{'SYMPTOMS': ['panic attacks', 'anxiety'], 'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,change,nsubj,motivations,"{'NEURO-DEVELOPMENTAL DISORDERS': ['autism'], 'SYMPTOMS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,started,nsubj,bpd,{}
+mentalillness,told,dobj,sound,"{'SYMPTOMS': ['addiction'], 'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety'], 'SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS': ['schizophrenia']}"
+mentalillness,losing,dobj,shit,{}
+BPD,read,nsubj,problems,{}
+Anxiety,forgetting,dobj,door,{'SYMPTOMS': ['anxiety']}
+BPD,think,nsubj,affectionate,{}
+depression,spoken,nsubj,days,{}
+depression,feel,nsubj,bad,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,ask,dobj,result,{}
+mentalillness,left,dobj,bpd,"{'PSYCHEDELIC DRUGS': ['met'], 'SYMPTOMS': ['suicidal ideation', 'panic attacks', 'anxiety', 'anger', 'homeless'], 'DEPRESSIVE DISORDERS': ['depression'], 'NEURO-COGNITIVE DISORDERS': ['delirium'], 'ANXIETY DISORDERS': ['anxiety'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}"
+BPD,checked,nsubj,america,{}
+bipolar,mean,nsubj,edit,{'SYMPTOMS': ['mania']}
+BPD,agree,dobj,place,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'PSYCHEDELIC DRUGS': ['met']}"
+depression,improve,dobj,situation,"{'SYMPTOMS': ['anger', 'damaged'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,finding,dobj,videos,{'SYMPTOMS': ['paranoia']}
+mentalillness,complained,nsubj,movement,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'ANXIETY DISORDERS': ['anxiety'], 'NEURO-DEVELOPMENTAL DISORDERS': ['motor'], 'SYMPTOMS': ['panic attacks', 'migraine']}"
+Anxiety,supposed,nsubj,lexapro,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,adapt,dobj,country,"{'DEPRESSIVE DISORDERS': ['hand', 'depression'], 'SYMPTOMS': ['panic attacks']}"
+bipolar,feel,nsubj,fixes,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,rediagnosed,dobj,court,{}
+depression,die,dobj,years,{}
+Anxiety,took,dobj,fortitude,"{'SYMPTOMS': ['anxiety', 'headache'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,loved,nsubj,thanks,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+Anxiety,left,dobj,work,"{'SYMPTOMS': ['anxiety', 'migraine'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,manifest,dobj,dysfunction,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'ANXIETY DISORDERS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression']}"
+mentalillness,began,dobj,times,{}
+BPD,makes,nsubj,shields,{}
+BPD,feel,nsubj,want,{}
+bipolar,informed,nsubj,friends,"{'BIPOLAR DISORDERS': ['bipolar'], 'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['panic attacks', 'addiction']}"
+Anxiety,going,dobj,work,{'SYMPTOMS': ['panic attacks']}
+depression,feel,dobj,bed,{'SYMPTOMS': ['anger']}
+depression,handling,dobj,college,{'DEPRESSIVE DISORDERS': ['depression']}
+mentalillness,said,nsubj,find,{}
+Anxiety,pleasant,nsubj,anxiety,{'SYMPTOMS': ['anxiety']}
+bipolar,started,nsubj,etc,{'SYMPTOMS': ['psychosis']}
+BPD,paying,dobj,talk,{}
+Anxiety,pay,dobj,bills,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['social anxiety', 'anxiety']}"
+depression,wasting,dobj,money,{}
+BPD,know,nsubj,way,{}
+Anxiety,dying,dobj,etc,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+mentalillness,love,dobj,death,{}
+Anxiety,having,dobj,weights,"{'SYMPTOMS': ['hopelessness', 'anxiety', 'panic'], 'ANXIETY DISORDERS': ['anxiety'], 'NEURO-DEVELOPMENTAL DISORDERS': ['hand']}"
+BPD,wrote,dobj,title,{'SYMPTOMS': ['anger']}
+BPD,trying,dobj,kill,{'SYMPTOMS': ['addiction']}
+BPD,absorbed,dobj,anybody,{}
+BPD,sleeping,dobj,anger,"{'BIPOLAR DISORDERS': ['bipolar'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'PSYCHEDELIC DRUGS': ['met'], 'DEPRESSIVE DISORDERS': ['hand'], 'SYMPTOMS': ['anger']}"
+BPD,got,dobj,suggestions,{}
+BPD,pierce,dobj,things,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,treat,dobj,way,"{'TRAUMA AND STRESS RELATED DISORDERS': ['ptsd'], 'ANXIETY DISORDERS': ['social anxiety']}"
+Anxiety,stop,dobj,day,{}
+BPD,dictated,nsubj,effect,{'BIPOLAR DISORDERS': ['bipolar']}
+mentalillness,fell,nsubj,psychosis,"{'SYMPTOMS': ['psychosis', 'delusions']}"
+BPD,hold,dobj,anger,{'SYMPTOMS': ['anger']}
+mentalillness,said,nsubj,tell,"{'SYMPTOMS': ['addiction', 'hallucinations'], 'NEURO-DEVELOPMENTAL DISORDERS': ['autism'], 'BIPOLAR DISORDERS': ['bipolar'], 'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['ocd'], 'TRAUMA AND STRESS RELATED DISORDERS': ['adhd', 'adhd nearly'], 'SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS': ['schizophrenia'], 'PSYCHEDELIC DRUGS': ['met'], 'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,blaming,dobj,respect,{}
+BPD,saw,nsubj,unconcious,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+Anxiety,taking,nsubj,family,{'SYMPTOMS': ['anxiety']}
+depression,cut,dobj,times,{}
+BPD,planning,dobj,breakup,{'TRAUMA AND STRESS RELATED DISORDERS': ['adhd']}
+BPD,got,nsubj,anxiety,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anxiety']}"
+mentalillness,went,nsubj,thing,{}
+BPD,lying,dobj,friends,{}
+depression,remove,dobj,memories,{}
+BPD,patched,dobj,things,"{'SYMPTOMS': ['addiction', 'psychotic symptoms'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,googling,nsubj,bed,{'DEPRESSIVE DISORDERS': ['depression']}
+mentalillness,picked,dobj,habit,{}
+BPD,feel,nsubj,escape,{}
+Anxiety,locking,dobj,adult,"{'ANXIETY DISORDERS': ['anxiety'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['flashbacks', 'anxiety attacks']}"
+BPD,got,dobj,bf,{}
+BPD,feel,dobj,point,{}
+BPD,appreciate,dobj,attempts,{}
+mentalillness,graduated,dobj,problem,{}
+depression,push,dobj,drugs,{}
+Anxiety,feel,nsubj,life,{}
+BPD,spending,dobj,hate,{}
+BPD,kill,dobj,self,{}
+mentalillness,asking,dobj,relationship,"{'BIPOLAR DISORDERS': ['bipolar', 'bipolar disorder']}"
+BPD,allowed,nsubj,vaknins,{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}
+bipolar,thought,nsubj,mother,"{'PSYCHEDELIC DRUGS': ['met'], 'BIPOLAR DISORDERS': ['bipolar disorder'], 'SYMPTOMS': ['mania', 'hypomania']}"
+BPD,brought,dobj,times,{}
+Anxiety,taught,nsubj,video,"{'SYMPTOMS': ['panic attacks', 'anxiety', 'panic', 'panic attack'], 'ANXIETY DISORDERS': ['anxiety']}"
+Anxiety,met,nsubj,people,"{'SYMPTOMS': ['brief', 'anxiety'], 'PSYCHEDELIC DRUGS': ['met']}"
+Anxiety,die,nsubj,people,{}
+BPD,die,nsubj,stop,{}
+Anxiety,talk,nsubj,months,{}
+mentalillness,takes,dobj,runs,{}
+bipolar,saw,nsubj,disorder,{'BIPOLAR DISORDERS': ['bipolar']}
+depression,pretend,nsubj,times,{'PSYCHEDELIC DRUGS': ['met']}
+BPD,ending,dobj,feelings,{}
+Anxiety,feel,dobj,thoughts,"{'SYMPTOMS': ['panic attacks', 'anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+BPD,kick,nsubj,impulses,{}
+mentalillness,wanted,dobj,thing,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['ocd']}"
+BPD,struggle,nsubj,areas,{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}
+depression,washing,dobj,styling,"{'PSYCHEDELIC DRUGS': ['met'], 'DEPRESSIVE DISORDERS': ['depression']}"
+mentalillness,sleeping,dobj,bed,"{'SYMPTOMS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,display,dobj,anger,"{'SYMPTOMS': ['anger'], 'PSYCHEDELIC DRUGS': ['met']}"
+depression,leave,dobj,miracle,{}
+Anxiety,think,nsubj,judgement,"{'ANXIETY DISORDERS': ['social anxiety', 'anxiety', 'generalized anxiety dysthymia difference'], 'SYMPTOMS': ['anxiety']}"
+Anxiety,feel,nsubj,symptoms,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['panic attack']}"
+BPD,said,nsubj,expected,{}
+schizophrenia,bring,nsubj,sadness,{'SYMPTOMS': ['numbness']}
+BPD,checked,dobj,account,"{'SYMPTOMS': ['mania', 'anxiety']}"
+Anxiety,trying,dobj,work,{}
+depression,dealing,dobj,circles,"{'DEPRESSIVE DISORDERS': ['depression'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['anger'], 'PSYCHEDELIC DRUGS': ['met']}"
+Anxiety,leave,dobj,ways,"{'SYMPTOMS': ['anxiety', 'anxiety attacks']}"
+Anxiety,eat,dobj,anxiety,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,rocking,dobj,floor,{}
+BPD,wayyy,nsubj,emotions,{}
+depression,left,nsubj,pm,{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma']}
+mentalillness,apply,nsubj,plan,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['suicidal thoughts']}"
+BPD,left,nsubj,boundaries,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['anger', 'anxiety']}"
+depression,let,nsubj,friends,{}
+Anxiety,thought,nsubj,friends,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,keeps,dobj,protect,{}
+BPD,feeling,dobj,misses,{}
+depression,pointed,nsubj,people,{}
+mentalillness,gave,dobj,day,"{'BIPOLAR DISORDERS': ['bipolar', 'bipolar disorder'], 'PSYCHEDELIC DRUGS': ['met']}"
+BPD,resonates,nsubj,week,{}
+bipolar,wrote,nsubj,doctor,{'SYMPTOMS': ['anxiety']}
+Anxiety,find,nsubj,things,{}
+BPD,feel,nsubj,emotions,{'SYMPTOMS': ['panic attacks']}
+mentalillness,remember,dobj,time,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'NEURO-DEVELOPMENTAL DISORDERS': ['autism']}"
+BPD,stop,nsubj,problems,{'BIPOLAR DISORDERS': ['bipolar']}
+depression,changed,nsubj,life,{}
+schizophrenia,going,nsubj,movie,"{'SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS': ['schizophrenia'], 'SYMPTOMS': ['panic attacks'], 'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety'], 'PSYCHEDELIC DRUGS': ['lsd']}"
+BPD,ask,dobj,hobbies,{'PSYCHEDELIC DRUGS': ['met']}
+Anxiety,need,nsubj,post,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['anxiety']}"
+BPD,said,nsubj,tiktok,{}
+Anxiety,tried,nsubj,attacks,"{'SYMPTOMS': ['panic attacks', 'panic']}"
+Anxiety,meet,nsubj,everybody,"{'ANXIETY DISORDERS': ['anxiety'], 'PSYCHEDELIC DRUGS': ['met']}"
+Anxiety,went,nsubj,things,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety', 'panic']}"
+Anxiety,leaving,dobj,navy,"{'SYMPTOMS': ['anxiety', 'headache'], 'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'ANXIETY DISORDERS': ['anxiety', 'panic', 'thoughts anxiety filled']}"
+depression,invite,dobj,care,{'SYMPTOMS': ['suicidal want']}
+Anxiety,feel,nsubj,feet,{'SYMPTOMS': ['anxiety']}
+BPD,eating,dobj,suicidal,"{'BIPOLAR DISORDERS': ['bipolar'], 'DEPRESSIVE DISORDERS': ['mother depression'], 'SYMPTOMS': ['anger'], 'PSYCHEDELIC DRUGS': ['met']}"
+depression,resolve,nsubj,bits,"{'TRAUMA AND STRESS RELATED DISORDERS': ['trauma'], 'SYMPTOMS': ['anger']}"
+bipolar,passed,dobj,stage,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,experienced,dobj,months,{}
+Anxiety,scared,nsubj,dad,{}
+BPD,burden,dobj,motions,{}
+mentalillness,tell,dobj,mind,"{'ANXIETY DISORDERS': ['anxiety'], 'SYMPTOMS': ['suicidal thoughts', 'anxiety']}"
+BPD,try,nsubj,plans,{'PSYCHEDELIC DRUGS': ['met']}
+depression,think,nsubj,person,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,knows,nsubj,happen,{}
+Anxiety,lost,nsubj,life,{}
+depression,bring,nsubj,etc,{}
+bipolar,felt,nsubj,job,"{'SYMPTOMS': ['mania'], 'DEPRESSIVE DISORDERS': ['depression'], 'BIPOLAR DISORDERS': ['bipolar']}"
+BPD,keeps,nsubj,girl,{'SYMPTOMS': ['anxiety']}
+Anxiety,began,dobj,guys,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['anxiety']}"
+depression,want,nsubj,greif,{}
+Anxiety,outlook,nsubj,skewing,"{'SYMPTOMS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,think,dobj,stop,{}
+BPD,track,nsubj,dad,{'SYMPTOMS': ['paranoia']}
+depression,start,dobj,byt,{'PSYCHEDELIC DRUGS': ['met']}
+BPD,destroy,dobj,medias,{}
+bipolar,led,nsubj,connection,"{'SYMPTOMS': ['addiction', 'mania']}"
+Anxiety,trying,dobj,head,"{'ANXIETY DISORDERS': ['social anxiety', 'anxiety'], 'SYMPTOMS': ['anxiety']}"
+depression,shines,nsubj,sun,{}
+Anxiety,urinate,dobj,thanks,{'SYMPTOMS': ['anxiety']}
+BPD,triggered,nsubj,friendship,{}
+Anxiety,suck,nsubj,grades,"{'ANXIETY DISORDERS': ['anxiety'], 'DEPRESSIVE DISORDERS': ['depression']}"
+BPD,lost,dobj,weed,{}
+BPD,thinking,dobj,body,{}
+depression,feel,nsubj,lol,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['headache']}"
+Anxiety,smoking,nsubj,bf,{'SYMPTOMS': ['anxiety']}
+BPD,wrote,dobj,guys,{'DEPRESSIVE DISORDERS': ['depression']}
+Anxiety,feel,nsubj,attack,{'SYMPTOMS': ['anxiety']}
+BPD,loves,nsubj,family,{}
+BPD,stuck,nsubj,sides,{}
+depression,wonder,dobj,luck,{}
+depression,felt,nsubj,life,{}
+BPD,pretending,dobj,deal,{}
+BPD,expanding,dobj,space,{}
+BPD,went,nsubj,messages,{}
+mentalillness,felt,nsubj,minutes,"{'SYMPTOMS': ['panic attacks', 'anxiety'], 'ANXIETY DISORDERS': ['anxiety']}"
+depression,like,nsubj,boy,{}
+Anxiety,tell,dobj,wonderin,{}
+Anxiety,want,nsubj,life,"{'ANXIETY DISORDERS': ['anxiety', 'panic'], 'SYMPTOMS': ['anxiety']}"
+bipolar,meds,nsubj,psych,{'SYMPTOMS': ['numbness']}
+Anxiety,wanted,nsubj,weekend,{'SYMPTOMS': ['anxiety']}
+mentalillness,lie,nsubj,things,"{'DEPRESSIVE DISORDERS': ['depression'], 'SYMPTOMS': ['addiction', 'anger', 'anxiety']}"
+BPD,felt,nsubj,time,"{'ANXIETY DISORDERS': ['social anxiety'], 'SYMPTOMS': ['addiction']}"
+BPD,hoping,dobj,desire,{}
+bipolar,regrets,dobj,episode,{}
+Anxiety,relationship,nsubj,direction,"{'SYMPTOMS': ['anxiety'], 'ANXIETY DISORDERS': ['anxiety', 'panic'], 'PSYCHEDELIC DRUGS': ['met'], 'DEPRESSIVE DISORDERS': ['hand']}"
+BPD,tried,nsubj,love,"{'SYMPTOMS': ['panic attacks'], 'PSYCHEDELIC DRUGS': ['met']}"
+BPD,imagined,dobj,abandonment,{}
+depression,know,nsubj,family,{'DEPRESSIVE DISORDERS': ['depression']}
+BPD,disassociating,nsubj,situation,{}
+depression,going,dobj,school,"{'SYMPTOMS': ['anger'], 'DEPRESSIVE DISORDERS': ['depression']}"
+bipolar,need,nsubj,kids,{}
+BPD,pays,nsubj,adults,"{'SYMPTOMS': ['anger'], 'DEPRESSIVE DISORDERS': ['hand'], 'NEURO-DEVELOPMENTAL DISORDERS': ['hand']}"
+BPD,kind,nsubj,tips,{'OBSESSIVE-COMPULSIVE AND RELATED DISORDERS': ['obsessive intrusive mean']}
+BPD,tried,nsubj,years,{}
+Anxiety,taking,dobj,anti,{'SYMPTOMS': ['anxiety']}
