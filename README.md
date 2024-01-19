@@ -29,6 +29,8 @@ technique/s (20 marks);
   - Bootstrapping, refactoring and re-engineering of paper's models and code. See [github](https://github.com/adamd1985/socialmedia_ai_analysis_mentalhealth_predictiveintervention).
   - Preprocessing and large text data sanitization pipelines.
   - Senitiment and lexicon analysis and [research](./sentiment_resaerch.ipynb).
+  - Feature engineering. See [post feature engineering](./post_feature_engineering.ipynb).
+  - Graph Neural Network. See [GNN](./gnn.ipynb).
 - Christian
   - Medical papers research and selection.
   - Bootstrapping of benchmark paper data.
