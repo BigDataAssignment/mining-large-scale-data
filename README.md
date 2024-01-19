@@ -34,8 +34,11 @@ technique/s (20 marks);
 - Christian
   - Medical papers research and selection.
   - Bootstrapping of benchmark paper data.
+  - Semantic Relation Ship Analysis and [research](./SemanticRelationship.ipynb).
+  - Building of graph network (./GraphBuilding.ipynb).
 - Owen
   - Github administration.
+  - Bag of Words Analysis (./bag_of_words.ipynb).
 
 # MHA Application
 
