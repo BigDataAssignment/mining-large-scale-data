@@ -29,11 +29,16 @@ technique/s (20 marks);
   - Bootstrapping, refactoring and re-engineering of paper's models and code. See [github](https://github.com/adamd1985/socialmedia_ai_analysis_mentalhealth_predictiveintervention).
   - Preprocessing and large text data sanitization pipelines.
   - Senitiment and lexicon analysis and [research](./sentiment_resaerch.ipynb).
+  - Feature engineering. See [post feature engineering](./post_feature_engineering.ipynb).
+  - Graph Neural Network. See [GNN](./gnn.ipynb).
 - Christian
   - Medical papers research and selection.
   - Bootstrapping of benchmark paper data.
+  - Semantic Relation Ship Analysis and [research](./SemanticRelationship.ipynb).
+  - Building of graph network (./GraphBuilding.ipynb).
 - Owen
   - Github administration.
+  - Bag of Words Analysis (./bag_of_words.ipynb).
 
 # MHA Application
 
@@ -69,6 +74,14 @@ All CVSs should go to the folder ['./raw_data'](./raw_data)
 
 A default `.env` was provided.
 Use your own and add it to `.gitignore`.
+For the reddit scraper have these in your env:
+```yml
+CLIENT_ID=YOUR_CLIENT_ID
+CLIENT_SECRET=YOUR_SECRET
+USER_AGENT=uom_research v1.0 by /u/YOUR_USER_NAME
+SUBREDDITS=MentalHealth,depression,anxiety
+```
+The authentication  key and secrets you need to create from this wiki: https://www.reddit.com/wiki/api/
 
 API connections, environment variables, and other secrets need to go in your .env.
 **Do not commit** your .env!
