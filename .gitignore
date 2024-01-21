@@ -166,3 +166,4 @@ cython_debug/
 #.idea/
 data/GraphData.csv
 user.env
+credentials.env
