@@ -17,3 +17,5 @@ spacy==3.7.2
 textblob==0.17.1
 tqdm==4.66.1
 wordcloud==1.9.3
+networkx==3.2.1
+python-louvain==0.16
