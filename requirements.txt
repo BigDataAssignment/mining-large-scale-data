@@ -19,3 +19,4 @@ tqdm==4.66.1
 wordcloud==1.9.3
 networkx==3.2.1
 python-louvain==0.16
+tensorflow-gnn==2.15.0
