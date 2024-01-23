@@ -167,3 +167,6 @@ cython_debug/
 data/GraphData.csv
 user.env
 credentials.env
+data/GraphData_sampled.csv
+data/export.cypher
+data/GraphData_sampled.csv
