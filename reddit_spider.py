@@ -4,14 +4,14 @@ Mental health subreddits scrapping spider.
 Example:
     >>> python ./reddit_spider.py
 
-Author:
-    Adam Darmanin
 
 Notes:
     You need to have a .ENV file with the following settings:
     CLIENT_ID=YOUR_CLIENT_ID
     CLIENT_SECRET=YOUR_SECRET
-    USER_AGENT=uom_research v1.0 by /u/YOUR_USER_NAME
+    USER_AGENT=uom_research/u/YOUR_USER_NAME
+    PASSWORD=YOUR_PASSWORD
+    USERNAME=YOUR_USERNAME
     SUBREDDITS=MentalHealth,depression,anxiety
     See: https://www.reddit.com/wiki/api/
 """
@@ -93,6 +93,8 @@ def main():
     client_id = os.getenv('CLIENT_ID')
     client_secret = os.getenv('CLIENT_SECRET')
     user_agent = os.getenv('USER_AGENT')
+    username = os.getenv('USERNAME')
+    password = os.getenv('PASSWORD')
     until_date_str = os.getenv('SCRAPE_UNTIL_DATE', '2023-01-01')
     until_date = dateutil.parser.parse(until_date_str).replace(tzinfo=timezone.utc)
     subreddits = os.getenv('SUBREDDITS').split(',')
@@ -103,6 +105,8 @@ def main():
         client_id=client_id,
         client_secret=client_secret,
         user_agent=user_agent,
+        username=username,
+        password=password,
         ratelimit_seconds=60,
         check_for_async=False
     )
