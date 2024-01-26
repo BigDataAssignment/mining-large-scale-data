@@ -1,0 +1,62 @@
+node_sets {
+  key: "mhnode"
+  value {
+    description: "MH label from 12 subreddits."
+    features {
+      key: "id"
+      value {
+        dtype: DT_INT32
+      }
+    }
+    features {
+      key: "label"
+      value {
+        dtype: DT_INT64
+      }
+    }
+  }
+}
+node_sets {
+  key: "word"
+
+  value {
+    description: "Post embeddings in word tokens."
+    features {
+      key: "id"
+      value {
+        dtype: DT_INT32
+      }
+    }
+    features {
+      key: "feat"
+      value {
+        dtype: DT_FLOAT
+        shape {
+          dim {
+            size: 128
+          }
+        }
+      }
+    }
+    features {
+      key: "label"
+      value {
+        dtype: DT_INT64
+      }
+    }
+  }
+}
+edge_sets {
+  key: "word->word"
+  value {
+    source: "word"
+    target: "word"
+  }
+}
+edge_sets {
+  key: "words->mhnode"
+  value {
+    source: "word"
+    target: "mhnode"
+  }
+}
