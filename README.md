@@ -38,7 +38,9 @@ technique/s (20 marks);
   - Building of graph network (./GraphBuilding.ipynb).
 - Owen
   - Github administration.
-  - Bag of Words Analysis (./bag_of_words.ipynb).
+  - Pre-processing for Bag of Words & Word Embeddings
+  - Bag of Words Analysis (./bag_of_words.ipynb, ./bag_of_words_v2.ipynb).
+  - Word Embeddings (./word_embeddings.ipynb).
 
 # MHA Application
 
