@@ -169,3 +169,8 @@ user.env
 credentials.env
 data/GraphData_sampled.csv
 data/GraphData_sampled.csv
+data/GraphData_sampled_LOCKED.csv
+data/GraphData_sampled.csv
+data/word2vec_embeddings.bin
+data/GraphData_sampled.csv
+data/GraphData_sampled.csv
