@@ -34,8 +34,9 @@ technique/s (20 marks);
 - Christian
   - Medical papers research and selection.
   - Bootstrapping of benchmark paper data.
-  - Semantic Relation Ship Analysis and [research](./SemanticRelationship.ipynb).
-  - Building of graph network (./GraphBuilding.ipynb).
+  - Semantic Relationship Analysis and [research](./SemanticRelationship.ipynb).
+  - Building of knowledge graph network and experimentation (./GraphBuilding.ipynb).
+  - Interfacing of the neo4j graph to the Graph Neural Network. see [GNN_mod](./gnn_mod.ipynb) 
 - Owen
   - Github administration.
   - Pre-processing for Bag of Words & Word Embeddings
