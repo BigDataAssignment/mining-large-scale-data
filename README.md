@@ -40,8 +40,9 @@ technique/s (20 marks);
 - Owen
   - Github administration.
   - Pre-processing for Bag of Words & Word Embeddings
-  - Bag of Words Analysis (./bag_of_words.ipynb, ./bag_of_words_v2.ipynb).
-  - Word Embeddings (./word_embeddings.ipynb).
+  - Bag of Words Analysis and [research] (./bag_of_words.ipynb, ./bag_of_words_v2.ipynb).
+  - Word Embeddings and [research] (./word_embeddings.ipynb).
+  - Final Program implementation (./final_program.ipynb)
 
 # MHA Application
 
