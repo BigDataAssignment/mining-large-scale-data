@@ -37,6 +37,7 @@ technique/s (20 marks);
   - Semantic Relationship Analysis and [research](./SemanticRelationship.ipynb).
   - Building of knowledge graph network and experimentation (./GraphBuilding.ipynb).
   - Interfacing of the neo4j graph to the Graph Neural Network. see [GNN_mod](./gnn_mod.ipynb) 
+  - Write up sections: Abstract, Intro, Related Work, Design and Implementation, Data Acquisition, Semantic Analysis, Knowledge Graph Building, Future work, Ethical Considerations, Conclusion
 - Owen
   - Github administration.
   - Pre-processing for Bag of Words & Word Embeddings
