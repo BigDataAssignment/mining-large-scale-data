@@ -25,18 +25,17 @@ technique/s (20 marks);
 ## Contributions
 
 - Adam
-  - Discovery & proposal of benchmark paper.
+  - Discovery & proposal of [benchmark paper](https://aclanthology.org/W16-0307/) and Graph Convolution Neural Network [paper](https://www.bibsonomy.org/bibtex/19a7c8972cc52c2ba998c0a6cb7bf6e72)
   - Bootstrapping, refactoring and re-engineering of paper's models and code. See [github](https://github.com/adamd1985/socialmedia_ai_analysis_mentalhealth_predictiveintervention).
-  - Preprocessing and large text data sanitization pipelines.
-  - Senitiment and lexicon analysis and [research](./sentiment_resaerch.ipynb).
-  - Feature engineering. See [post feature engineering](./post_feature_engineering.ipynb).
-  - Graph Neural Network. See [GNN](./gnn.ipynb).
+  - Preprocessing pipelines for large text data's sanitization and feature engineering. See [post feature engineering](./post_feature_engineering.ipynb).
+  - Sentiment, NER, and Lexicon Analysis toolsets [research](./sentiment_resaerch.ipynb).
+  - Graph Convolution Neural Network research, architecture, and troubleshooting. See [GNN](./gnn.ipynb).
 - Christian
   - Medical papers research and selection.
   - Bootstrapping of benchmark paper data.
   - Semantic Relationship Analysis and [research](./SemanticRelationship.ipynb).
   - Building of knowledge graph network and experimentation (./GraphBuilding.ipynb).
-  - Interfacing of the neo4j graph to the Graph Neural Network. see [GNN_mod](./gnn_mod.ipynb) 
+  - Interfacing of the neo4j graph to the Graph Neural Network. see [GNN_mod](./gnn_mod.ipynb)
   - Write up sections: Abstract, Intro, Related Work, Design and Implementation, Data Acquisition, Semantic Analysis, Knowledge Graph Building, Future work, Ethical Considerations, Conclusion
 - Owen
   - Github administration.
