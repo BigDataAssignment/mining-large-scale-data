@@ -1,14 +1,15 @@
 name: gnn
 channels:
   - stellargraph
-  - anaconda
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - _tflow_select=2.3.0=mkl
   - absl-py=2.1.0=pyhd8ed1ab_0
   - aiohttp=3.9.1=py39ha55989b_0
   - aiosignal=1.3.1=pyhd8ed1ab_0
+  - annotated-types=0.6.0=pyhd8ed1ab_0
   - asttokens=2.4.1=pyhd8ed1ab_0
   - astunparse=1.6.3=pyhd8ed1ab_0
   - async-timeout=4.0.3=pyhd8ed1ab_0
@@ -19,21 +20,27 @@ dependencies:
   - brotli-python=1.1.0=py39h99910a6_1
   - bzip2=1.0.8=hcfcfb64_5
   - c-ares=1.25.0=hcfcfb64_0
-  - ca-certificates=2023.11.17=h56e8100_0
+  - ca-certificates=2024.2.2=h56e8100_0
   - cached-property=1.5.2=hd8ed1ab_1
   - cached_property=1.5.2=pyha770c72_1
   - cachetools=5.3.2=pyhd8ed1ab_0
-  - certifi=2023.11.17=pyhd8ed1ab_0
+  - catalogue=2.0.10=py39hcbf5309_0
+  - certifi=2024.2.2=pyhd8ed1ab_0
   - cffi=1.16.0=py39ha55989b_0
   - charset-normalizer=3.3.2=pyhd8ed1ab_0
   - click=8.1.7=win_pyh7428d3b_0
+  - cloudpathlib=0.16.0=pyhd8ed1ab_0
   - colorama=0.4.6=pyhd8ed1ab_0
   - comm=0.2.1=pyhd8ed1ab_0
+  - confection=0.1.4=py39h5b92f00_0
   - contourpy=1.2.0=py39h1f6ef14_0
   - cryptography=39.0.0=py39h58e9bdb_0
   - cycler=0.12.1=pyhd8ed1ab_0
+  - cymem=2.0.8=py39h99910a6_1
+  - cython-blis=0.7.10=py39hd88c2e4_2
   - debugpy=1.8.0=py39h99910a6_1
   - decorator=5.1.1=pyhd8ed1ab_0
+  - empath=0.89=py_1
   - exceptiongroup=1.2.0=pyhd8ed1ab_2
   - executing=2.0.1=pyhd8ed1ab_0
   - flatbuffers=23.5.26=h63175ca_1
@@ -41,7 +48,6 @@ dependencies:
   - freetype=2.12.1=hdaf720e_2
   - frozenlist=1.4.1=py39ha55989b_0
   - gast=0.4.0=pyh9f0ad1d_0
-  - gensim=4.3.2=py39h32e6231_0
   - giflib=5.2.1=h64bf75a_3
   - google-auth=2.26.2=pyhca7485f_0
   - google-auth-oauthlib=0.4.6=pyhd8ed1ab_0
@@ -60,6 +66,7 @@ dependencies:
   - ipykernel=6.29.0=pyha63f2e9_0
   - ipython=8.18.1=pyh7428d3b_3
   - jedi=0.19.1=pyhd8ed1ab_0
+  - jinja2=3.1.3=pyhd8ed1ab_0
   - joblib=1.3.2=pyhd8ed1ab_0
   - jpeg=9e=hcfcfb64_3
   - jupyter_client=8.6.0=pyhd8ed1ab_0
@@ -67,6 +74,7 @@ dependencies:
   - keras=2.10.0=pyhd8ed1ab_0
   - kiwisolver=1.4.5=py39h1f6ef14_1
   - krb5=1.20.1=h6609f42_0
+  - langcodes=3.3.0=pyhd8ed1ab_0
   - lcms2=2.15=ha5c8aab_0
   - lerc=4.0.0=h63175ca_0
   - libabseil=20220623.0=cxx17_h1a56200_6
@@ -100,16 +108,20 @@ dependencies:
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markdown=3.5.2=pyhd8ed1ab_0
+  - markdown-it-py=3.0.0=pyhd8ed1ab_0
   - markupsafe=2.1.4=py39ha55989b_0
   - matplotlib=3.8.2=py39hcbf5309_0
   - matplotlib-base=3.8.2=py39hf19769e_0
   - matplotlib-inline=0.1.6=pyhd8ed1ab_0
+  - mdurl=0.1.2=pyhd8ed1ab_0
   - mkl=2024.0.0=h66d3029_49657
   - msys2-conda-epoch=20160418=1
   - multidict=6.0.4=py39ha55989b_1
   - munkres=1.1.4=pyh9f0ad1d_0
+  - murmurhash=1.0.10=py39h99910a6_1
   - nest-asyncio=1.6.0=pyhd8ed1ab_0
   - networkx=3.2.1=pyhd8ed1ab_0
+  - nltk=3.8.1=pyhd8ed1ab_0
   - oauthlib=3.2.2=pyhd8ed1ab_0
   - openjpeg=2.5.0=ha2aaf27_2
   - openssl=1.1.1w=hcfcfb64_0
@@ -117,10 +129,12 @@ dependencies:
   - packaging=23.2=pyhd8ed1ab_0
   - pandas=2.2.0=py39h32e6231_0
   - parso=0.8.3=pyhd8ed1ab_0
+  - pathy=0.10.1=py39haa95532_0
   - pickleshare=0.7.5=py_1003
   - pillow=9.4.0=py39hcebd2be_1
   - pip=23.3.2=pyhd8ed1ab_0
   - platformdirs=4.1.0=pyhd8ed1ab_0
+  - preshed=3.0.9=py39h99910a6_1
   - prompt-toolkit=3.0.42=pyha770c72_0
   - psutil=5.9.8=py39ha55989b_0
   - pthread-stubs=0.4=hcd874cb_1001
@@ -129,6 +143,8 @@ dependencies:
   - pyasn1=0.5.1=pyhd8ed1ab_0
   - pyasn1-modules=0.3.0=pyhd8ed1ab_0
   - pycparser=2.21=pyhd8ed1ab_0
+  - pydantic=2.6.0=pyhd8ed1ab_0
+  - pydantic-core=2.16.1=py39hf21820d_0
   - pygments=2.17.2=pyhd8ed1ab_0
   - pyjwt=2.8.0=pyhd8ed1ab_0
   - pyopenssl=23.2.0=pyhd8ed1ab_1
@@ -147,17 +163,24 @@ dependencies:
   - pyzmq=25.1.2=py39h7eaf5a6_0
   - qt-main=5.15.2=h6072711_9
   - re2=2022.06.01=h0e60522_1
+  - regex=2023.12.25=py39ha55989b_0
   - requests=2.31.0=pyhd8ed1ab_0
   - requests-oauthlib=1.3.1=pyhd8ed1ab_0
+  - rich=13.7.0=pyhd8ed1ab_0
   - rsa=4.9=pyhd8ed1ab_0
   - scikit-learn=1.4.0=py39h7c199eb_0
   - scipy=1.12.0=py39hddb5d58_1
   - setuptools=69.0.3=pyhd8ed1ab_0
+  - shellingham=1.5.4=pyhd8ed1ab_0
   - sip=6.5.1=py39h415ef7b_2
   - six=1.16.0=pyh6c4a22f_0
   - smart_open=6.4.0=pyhd8ed1ab_0
   - snappy=1.1.10=hfb803bf_0
+  - spacy=3.7.2=py39h5c3ab46_0
+  - spacy-legacy=3.0.12=pyhd8ed1ab_0
+  - spacy-loggers=1.0.5=pyhd8ed1ab_0
   - sqlite=3.44.2=hcfcfb64_0
+  - srsly=2.4.8=py39h99910a6_1
   - stack_data=0.6.2=pyhd8ed1ab_0
   - stellargraph=1.2.1=py_0
   - tbb=2021.11.0=h91493d7_0
@@ -168,11 +191,14 @@ dependencies:
   - tensorflow-base=2.10.0=mkl_py39h6a7f48e_0
   - tensorflow-estimator=2.10.0=py39haa95532_0
   - termcolor=2.4.0=pyhd8ed1ab_0
+  - thinc=8.2.2=py39h5c3ab46_0
   - threadpoolctl=3.2.0=pyha21a80b_0
   - tk=8.6.13=h5226925_1
   - toml=0.10.2=pyhd8ed1ab_0
   - tornado=6.3.3=py39ha55989b_1
+  - tqdm=4.66.1=pyhd8ed1ab_0
   - traitlets=5.14.1=pyhd8ed1ab_0
+  - typer=0.9.0=pyhd8ed1ab_0
   - typing-extensions=4.9.0=hd8ed1ab_0
   - typing_extensions=4.9.0=pyha770c72_0
   - tzdata=2023d=h0c530f3_0
@@ -182,7 +208,9 @@ dependencies:
   - vc=14.3=hcf57466_18
   - vc14_runtime=14.38.33130=h82b7239_18
   - vs2015_runtime=14.38.33130=hcb4865c_18
+  - wasabi=1.1.2=py39hcbf5309_0
   - wcwidth=0.2.13=pyhd8ed1ab_0
+  - weasel=0.3.4=pyhd8ed1ab_0
   - werkzeug=3.0.1=pyhd8ed1ab_0
   - wheel=0.42.0=pyhd8ed1ab_0
   - win_inet_pton=1.1.0=pyhd8ed1ab_6
@@ -196,13 +224,18 @@ dependencies:
   - zlib=1.2.13=hcfcfb64_5
   - zstd=1.5.5=h12be248_0
   - pip:
+      - anyascii==0.3.2
       - beautifulsoup4==4.12.3
       - bleach==6.1.0
       - chardet==5.2.0
+      - contractions==0.1.73
       - defusedxml==0.7.1
       - docopt==0.6.2
+      - emoji==2.10.1
+      - en-core-web-md==3.7.1
+      - en-core-web-sm==3.7.1
       - fastjsonschema==2.19.1
-      - jinja2==3.1.3
+      - gensim==3.8.0
       - jsonschema==4.21.1
       - jsonschema-specifications==2023.12.1
       - jupyterlab-pygments==0.3.0
@@ -213,15 +246,19 @@ dependencies:
       - nbconvert==7.14.2
       - nbformat==5.9.2
       - neo4j==5.16.0
-      - numpy==1.23.5
+      - numpy==1.23.1
       - pandocfilters==1.5.1
+      - pickle-compat==2.1.1
+      - pickle-mixin==1.0.2
       - pipreqs==0.4.13
       - protobuf==3.19.6
+      - pyahocorasick==2.0.0
       - python-dotenv==1.0.1
       - referencing==0.32.1
       - rpds-py==0.17.1
       - soupsieve==2.5
       - tensorflow-io-gcs-filesystem==0.31.0
+      - textsearch==0.0.24
       - tinycss2==1.2.1
       - webencodings==0.5.1
       - yarg==0.1.9
